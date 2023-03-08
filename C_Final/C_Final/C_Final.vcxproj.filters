@@ -18,8 +18,23 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CH3_MidTest.cpp">
+    <ClCompile Include="CH3_midtest.c">
       <Filter>CH3</Filter>
+    </ClCompile>
+    <ClCompile Include="ex_add2.c">
+      <Filter>CH3</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_LAB1.c">
+      <Filter>CH3</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_LAB2.c">
+      <Filter>CH3</Filter>
+    </ClCompile>
+    <ClCompile Include="CH_LAB3.c">
+      <Filter>CH3</Filter>
+    </ClCompile>
+    <ClCompile Include="CH_Miniproject.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
