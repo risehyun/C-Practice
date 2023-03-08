@@ -16,24 +16,48 @@
     <Filter Include="CH3">
       <UniqueIdentifier>{61028033-548d-45e1-aa04-e64ed9072042}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CH3\예제">
+      <UniqueIdentifier>{857c0071-3ad2-4f34-9259-bcbe656042d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CH3\Programming">
+      <UniqueIdentifier>{c0b47c22-184a-4692-ae79-4619f55a66b7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CH3_midtest.c">
-      <Filter>CH3</Filter>
+    <ClCompile Include="CH3_LAB3.c">
+      <Filter>CH3\예제</Filter>
     </ClCompile>
-    <ClCompile Include="ex_add2.c">
-      <Filter>CH3</Filter>
+    <ClCompile Include="CH3_Miniproject.c">
+      <Filter>CH3\예제</Filter>
     </ClCompile>
     <ClCompile Include="CH3_LAB1.c">
-      <Filter>CH3</Filter>
+      <Filter>CH3\예제</Filter>
     </ClCompile>
     <ClCompile Include="CH3_LAB2.c">
-      <Filter>CH3</Filter>
+      <Filter>CH3\예제</Filter>
     </ClCompile>
-    <ClCompile Include="CH_LAB3.c">
-      <Filter>CH3</Filter>
+    <ClCompile Include="CH3_Midtest.c">
+      <Filter>CH3\예제</Filter>
     </ClCompile>
-    <ClCompile Include="CH_Miniproject.c">
+    <ClCompile Include="CH3_EX_add2.c">
+      <Filter>CH3\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_PG_01.c">
+      <Filter>CH3\Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_PG_02.c">
+      <Filter>CH3\Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_PG_03.c">
+      <Filter>CH3\Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_PG_04.c">
+      <Filter>CH3\Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_PG_05.c">
+      <Filter>CH3\Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="CH3_PG_06.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
