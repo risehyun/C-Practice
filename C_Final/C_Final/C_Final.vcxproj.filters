@@ -58,7 +58,7 @@
       <Filter>CH3\Programming</Filter>
     </ClCompile>
     <ClCompile Include="CH3_PG_06.c">
-      <Filter>소스 파일</Filter>
+      <Filter>CH3\Programming</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
