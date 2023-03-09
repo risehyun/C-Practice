@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// 사용자로부터 문자를 입력받아 변수에 저장한 후, 별다른 가공 없이 다시 화면에 출력하는 예제
 int main(void)
 {
 	char ch = 0;
