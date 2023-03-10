@@ -13,18 +13,33 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="CH3_표준입출력도구">
+      <UniqueIdentifier>{31c699bf-d875-4041-9775-8b347f429b05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CH4_연산자-기본">
+      <UniqueIdentifier>{80862495-1393-4084-bb74-b4fd0a708f0b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EX_01.c">
-      <Filter>소스 파일</Filter>
+      <Filter>CH3_표준입출력도구</Filter>
     </ClCompile>
     <ClCompile Include="EX_02.c">
-      <Filter>소스 파일</Filter>
+      <Filter>CH3_표준입출력도구</Filter>
     </ClCompile>
     <ClCompile Include="EX_03.c">
-      <Filter>소스 파일</Filter>
+      <Filter>CH3_표준입출력도구</Filter>
     </ClCompile>
     <ClCompile Include="PR_03-01.c">
+      <Filter>CH3_표준입출력도구</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_03-02.c">
+      <Filter>CH3_표준입출력도구</Filter>
+    </ClCompile>
+    <ClCompile Include="CH4_EX_01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CH4_EX_02.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
