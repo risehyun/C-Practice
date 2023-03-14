@@ -22,6 +22,9 @@
     <Filter Include="CH5_연산자-응용">
       <UniqueIdentifier>{46c54029-223a-4aec-a911-eed7a85c4046}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CH06_기본 제어문">
+      <UniqueIdentifier>{b560dd62-155a-46e1-afe0-81935af8baf4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EX_01.c">
@@ -89,6 +92,42 @@
     </ClCompile>
     <ClCompile Include="CH5_PR_04.c">
       <Filter>CH5_연산자-응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH6_EX_01.c">
+      <Filter>CH06_기본 제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH6_EX_03.c">
+      <Filter>CH06_기본 제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH6_EX_04.c">
+      <Filter>CH06_기본 제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH6_PR_01.c">
+      <Filter>CH06_기본 제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH6_EX_02.c">
+      <Filter>CH06_기본 제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH6_PR_02.c">
+      <Filter>CH06_기본 제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH6_EX_05.c">
+      <Filter>CH06_기본 제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH6_PR_03.c">
+      <Filter>CH06_기본 제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH6_PR_04.c">
+      <Filter>CH06_기본 제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH6_PR_05.c">
+      <Filter>CH06_기본 제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH6_PR_06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CH6_PR_07.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
