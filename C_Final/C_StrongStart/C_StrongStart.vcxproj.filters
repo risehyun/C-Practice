@@ -19,6 +19,9 @@
     <Filter Include="CH4_연산자-기본">
       <UniqueIdentifier>{80862495-1393-4084-bb74-b4fd0a708f0b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CH5_연산자-응용">
+      <UniqueIdentifier>{46c54029-223a-4aec-a911-eed7a85c4046}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EX_01.c">
@@ -58,7 +61,34 @@
       <Filter>CH4_연산자-기본</Filter>
     </ClCompile>
     <ClCompile Include="CH4_EX_06.c">
-      <Filter>소스 파일</Filter>
+      <Filter>CH4_연산자-기본</Filter>
+    </ClCompile>
+    <ClCompile Include="CH4_EX_07.c">
+      <Filter>CH4_연산자-기본</Filter>
+    </ClCompile>
+    <ClCompile Include="CH4_EX_08.c">
+      <Filter>CH4_연산자-기본</Filter>
+    </ClCompile>
+    <ClCompile Include="CH4_EX_09.c">
+      <Filter>CH4_연산자-기본</Filter>
+    </ClCompile>
+    <ClCompile Include="CH4_PR_03.c">
+      <Filter>CH4_연산자-기본</Filter>
+    </ClCompile>
+    <ClCompile Include="CH5_EX_01.c">
+      <Filter>CH5_연산자-응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH5_PR_01.c">
+      <Filter>CH5_연산자-응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH5_PR_02.c">
+      <Filter>CH5_연산자-응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH5_PR_03.c">
+      <Filter>CH5_연산자-응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH5_PR_04.c">
+      <Filter>CH5_연산자-응용</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
