@@ -18,7 +18,6 @@ int main(void)
 
 	else
 	{
-
 		while (i < 10) // 가로출 출력
 		{
 			printf("%d * %d = %d\n", nInput, i, nInput*i);
@@ -26,7 +25,6 @@ int main(void)
 			++i;
 
 		}
-
 	}
 
 

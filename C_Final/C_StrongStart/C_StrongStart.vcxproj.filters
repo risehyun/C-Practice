@@ -157,9 +157,33 @@
       <Filter>CH7_반복문</Filter>
     </ClCompile>
     <ClCompile Include="CH7_EX_05.c">
-      <Filter>소스 파일</Filter>
+      <Filter>CH7_반복문</Filter>
     </ClCompile>
     <ClCompile Include="CH7_PR_05.c">
+      <Filter>CH7_반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH7_PR_06.c">
+      <Filter>CH7_반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH7_PR_07.c">
+      <Filter>CH7_반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH7_EX_06.c">
+      <Filter>CH7_반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH7_PR_08.c">
+      <Filter>CH7_반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH7_EX_07.c">
+      <Filter>CH7_반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH7_EX_08.c">
+      <Filter>CH7_반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH7_PR_09.c">
+      <Filter>CH7_반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH7_PR_10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
