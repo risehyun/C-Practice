@@ -219,5 +219,11 @@
     <ClCompile Include="CH8_EX_06.c">
       <Filter>CH8_배열</Filter>
     </ClCompile>
+    <ClCompile Include="CH8_PR_04.c">
+      <Filter>CH8_배열</Filter>
+    </ClCompile>
+    <ClCompile Include="CH8_PR_05.c">
+      <Filter>CH8_배열</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
