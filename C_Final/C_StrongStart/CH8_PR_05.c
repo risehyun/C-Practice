@@ -6,7 +6,7 @@ int main(void)
 	char szString[10] = { 0 };
 	int nLength = 0;
 
-	gets(szString);
+	gets_s(szString);
 
 	while (szString[nLength] != '\0')
 		nLength++;

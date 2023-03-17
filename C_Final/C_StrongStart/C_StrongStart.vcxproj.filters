@@ -31,6 +31,9 @@
     <Filter Include="CH8_배열">
       <UniqueIdentifier>{a7b58a47-a82d-4bd7-834e-f921b96ea8f0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CH9_배열을활용한프로그래밍기법">
+      <UniqueIdentifier>{80d690d2-b4c9-46cc-952f-43edf515737c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EX_01.c">
@@ -213,9 +216,6 @@
     <ClCompile Include="CH8_PR_03%28..%29.c">
       <Filter>CH8_배열</Filter>
     </ClCompile>
-    <ClCompile Include="CH7_PR_10%28..%29.c">
-      <Filter>CH8_배열</Filter>
-    </ClCompile>
     <ClCompile Include="CH8_EX_06.c">
       <Filter>CH8_배열</Filter>
     </ClCompile>
@@ -224,6 +224,39 @@
     </ClCompile>
     <ClCompile Include="CH8_PR_05.c">
       <Filter>CH8_배열</Filter>
+    </ClCompile>
+    <ClCompile Include="CH7_PR_10.c">
+      <Filter>CH7_반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="CH9_PR_01.c">
+      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+    </ClCompile>
+    <ClCompile Include="CH9_PR_02.c">
+      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+    </ClCompile>
+    <ClCompile Include="CH9_PR_03.c">
+      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+    </ClCompile>
+    <ClCompile Include="CH9_PR_04.c">
+      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+    </ClCompile>
+    <ClCompile Include="CH9_EX_01.c">
+      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+    </ClCompile>
+    <ClCompile Include="CH9_EX_02.c">
+      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+    </ClCompile>
+    <ClCompile Include="CH9_PR_05.c">
+      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+    </ClCompile>
+    <ClCompile Include="CH9_EX_03.c">
+      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+    </ClCompile>
+    <ClCompile Include="CH9_PR_06.c">
+      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+    </ClCompile>
+    <ClCompile Include="CH9_PR_07.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
