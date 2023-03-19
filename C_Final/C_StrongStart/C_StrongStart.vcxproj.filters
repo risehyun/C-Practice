@@ -31,8 +31,11 @@
     <Filter Include="CH8_배열">
       <UniqueIdentifier>{a7b58a47-a82d-4bd7-834e-f921b96ea8f0}</UniqueIdentifier>
     </Filter>
-    <Filter Include="CH9_배열을활용한프로그래밍기법">
+    <Filter Include="CH9_배열을활용한프로그래밍기법%28..%29">
       <UniqueIdentifier>{80d690d2-b4c9-46cc-952f-43edf515737c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CH10_함수에대한기본이론">
+      <UniqueIdentifier>{99ccb9fa-04b3-4836-b0e8-dd54fe3cb43b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -229,34 +232,46 @@
       <Filter>CH7_반복문</Filter>
     </ClCompile>
     <ClCompile Include="CH9_PR_01.c">
-      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+      <Filter>CH9_배열을활용한프로그래밍기법%28..%29</Filter>
     </ClCompile>
     <ClCompile Include="CH9_PR_02.c">
-      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+      <Filter>CH9_배열을활용한프로그래밍기법%28..%29</Filter>
     </ClCompile>
     <ClCompile Include="CH9_PR_03.c">
-      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+      <Filter>CH9_배열을활용한프로그래밍기법%28..%29</Filter>
     </ClCompile>
     <ClCompile Include="CH9_PR_04.c">
-      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+      <Filter>CH9_배열을활용한프로그래밍기법%28..%29</Filter>
     </ClCompile>
     <ClCompile Include="CH9_EX_01.c">
-      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+      <Filter>CH9_배열을활용한프로그래밍기법%28..%29</Filter>
     </ClCompile>
     <ClCompile Include="CH9_EX_02.c">
-      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+      <Filter>CH9_배열을활용한프로그래밍기법%28..%29</Filter>
     </ClCompile>
     <ClCompile Include="CH9_PR_05.c">
-      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+      <Filter>CH9_배열을활용한프로그래밍기법%28..%29</Filter>
     </ClCompile>
     <ClCompile Include="CH9_EX_03.c">
-      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+      <Filter>CH9_배열을활용한프로그래밍기법%28..%29</Filter>
     </ClCompile>
     <ClCompile Include="CH9_PR_06.c">
-      <Filter>CH9_배열을활용한프로그래밍기법</Filter>
+      <Filter>CH9_배열을활용한프로그래밍기법%28..%29</Filter>
     </ClCompile>
     <ClCompile Include="CH9_PR_07.c">
-      <Filter>소스 파일</Filter>
+      <Filter>CH9_배열을활용한프로그래밍기법%28..%29</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_EX_01.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_EX_02.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_EX_03.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_EX_04.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
