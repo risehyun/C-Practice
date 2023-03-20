@@ -273,5 +273,29 @@
     <ClCompile Include="CH10_EX_04.c">
       <Filter>CH10_함수에대한기본이론</Filter>
     </ClCompile>
+    <ClCompile Include="CH10_EX_05.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_EX_06.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_EX_07.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_EX_08.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_EX_09.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_EX_10.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_EX_11.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_EX_12.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

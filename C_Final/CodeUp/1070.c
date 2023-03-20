@@ -11,8 +11,6 @@
 
 #include <stdio.h>
 
-
-
 int main(void)
 {
 	int nInput = 0;
