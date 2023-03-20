@@ -37,6 +37,9 @@
     <Filter Include="CH10_함수에대한기본이론">
       <UniqueIdentifier>{99ccb9fa-04b3-4836-b0e8-dd54fe3cb43b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CH11.메모리와포인터">
+      <UniqueIdentifier>{86a5c222-3684-4900-b4d3-8df99c52bf94}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EX_01.c">
@@ -296,6 +299,21 @@
     </ClCompile>
     <ClCompile Include="CH10_EX_12.c">
       <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_EX_13.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_PR_1.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_PR_2.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_PR_3.c">
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH10_PR_4.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
