@@ -313,7 +313,25 @@
       <Filter>CH10_함수에대한기본이론</Filter>
     </ClCompile>
     <ClCompile Include="CH10_PR_4.c">
-      <Filter>소스 파일</Filter>
+      <Filter>CH10_함수에대한기본이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_01.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_02.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_03.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_04.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_05.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_06.c">
+      <Filter>CH11.메모리와포인터</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
