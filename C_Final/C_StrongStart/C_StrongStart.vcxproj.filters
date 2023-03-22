@@ -333,5 +333,20 @@
     <ClCompile Include="CH11_EX_06.c">
       <Filter>CH11.메모리와포인터</Filter>
     </ClCompile>
+    <ClCompile Include="CH11_EX_07.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_08.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_09.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_10.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_PR_01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
