@@ -14,7 +14,6 @@ int main()
 
     while (1) {
 
-
         if (matrix[x][y] == 0) {
             matrix[x][y] = 9;
             y++;

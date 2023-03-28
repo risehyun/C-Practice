@@ -346,6 +346,66 @@
       <Filter>CH11.메모리와포인터</Filter>
     </ClCompile>
     <ClCompile Include="CH11_PR_01.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_PR_01_2.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_PR_02.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_PR_03.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_11.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_12.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_PR_04.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_13.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_14.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_15.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_16.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_17.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_18.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_19.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_20.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_21.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_EX_22.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_PR_05.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_PR_06.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_PR_07.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH11_PR_08.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
