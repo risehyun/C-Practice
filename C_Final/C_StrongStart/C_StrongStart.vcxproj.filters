@@ -40,6 +40,9 @@
     <Filter Include="CH11.메모리와포인터">
       <UniqueIdentifier>{86a5c222-3684-4900-b4d3-8df99c52bf94}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CH12.함수응용">
+      <UniqueIdentifier>{9032e4a1-9b00-466a-86d8-1af8877700c8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EX_01.c">
@@ -406,6 +409,30 @@
       <Filter>CH11.메모리와포인터</Filter>
     </ClCompile>
     <ClCompile Include="CH11_PR_08.c">
+      <Filter>CH11.메모리와포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_01.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_02.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_03.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_04.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_05.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_06.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_07.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_PR_01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
