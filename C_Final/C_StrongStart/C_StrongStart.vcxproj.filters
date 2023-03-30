@@ -433,7 +433,61 @@
       <Filter>CH12.함수응용</Filter>
     </ClCompile>
     <ClCompile Include="CH12_PR_01.c">
-      <Filter>소스 파일</Filter>
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_08.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_09.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_10.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_11.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_12.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_13.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_14.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_15.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_16.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_PR_02.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_17.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_18.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_19.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_20.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_21.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_22.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_23.c">
+      <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH12_EX_24.c">
+      <Filter>CH12.함수응용</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
