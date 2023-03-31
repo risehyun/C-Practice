@@ -43,6 +43,9 @@
     <Filter Include="CH11.메모리와포인터%28..%29">
       <UniqueIdentifier>{86a5c222-3684-4900-b4d3-8df99c52bf94}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CH13.구조체와공용체">
+      <UniqueIdentifier>{c304735f-7ff3-40f7-89ed-c3f51d407f2d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EX_01.c">
@@ -506,6 +509,42 @@
     </ClCompile>
     <ClCompile Include="CH12_PR_08.c">
       <Filter>CH12.함수응용</Filter>
+    </ClCompile>
+    <ClCompile Include="CH13_EX_01.c">
+      <Filter>CH13.구조체와공용체</Filter>
+    </ClCompile>
+    <ClCompile Include="CH13_EX_02.c">
+      <Filter>CH13.구조체와공용체</Filter>
+    </ClCompile>
+    <ClCompile Include="CH13_EX_03.c">
+      <Filter>CH13.구조체와공용체</Filter>
+    </ClCompile>
+    <ClCompile Include="CH13_EX_04.c">
+      <Filter>CH13.구조체와공용체</Filter>
+    </ClCompile>
+    <ClCompile Include="CH13_EX_05.c">
+      <Filter>CH13.구조체와공용체</Filter>
+    </ClCompile>
+    <ClCompile Include="CH13_EX_06.c">
+      <Filter>CH13.구조체와공용체</Filter>
+    </ClCompile>
+    <ClCompile Include="CH13_EX_07.c">
+      <Filter>CH13.구조체와공용체</Filter>
+    </ClCompile>
+    <ClCompile Include="CH13_EX_08.c">
+      <Filter>CH13.구조체와공용체</Filter>
+    </ClCompile>
+    <ClCompile Include="CH13_EX_09.c">
+      <Filter>CH13.구조체와공용체</Filter>
+    </ClCompile>
+    <ClCompile Include="CH13_EX_10.c">
+      <Filter>CH13.구조체와공용체</Filter>
+    </ClCompile>
+    <ClCompile Include="CH13_EX_11.c">
+      <Filter>CH13.구조체와공용체</Filter>
+    </ClCompile>
+    <ClCompile Include="CH13_EX_12.c">
+      <Filter>CH13.구조체와공용체</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
