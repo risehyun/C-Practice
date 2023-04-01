@@ -46,6 +46,9 @@
     <Filter Include="CH13.구조체와공용체">
       <UniqueIdentifier>{c304735f-7ff3-40f7-89ed-c3f51d407f2d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CH14.파일입출력">
+      <UniqueIdentifier>{bf71692f-cce7-4196-887b-fe776053b431}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EX_01.c">
@@ -545,6 +548,33 @@
     </ClCompile>
     <ClCompile Include="CH13_EX_12.c">
       <Filter>CH13.구조체와공용체</Filter>
+    </ClCompile>
+    <ClCompile Include="CH14_EX_01.c">
+      <Filter>CH14.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="CH14_EX_02.c">
+      <Filter>CH14.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="CH14_EX_03.c">
+      <Filter>CH14.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="CH14_EX_04.c">
+      <Filter>CH14.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="CH14_EX_05.c">
+      <Filter>CH14.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="CH14_EX_06.c">
+      <Filter>CH14.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="CH14_EX_07.c">
+      <Filter>CH14.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="CH14_EX_08.c">
+      <Filter>CH14.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="CH14_EX_09.c">
+      <Filter>CH14.파일입출력</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
