@@ -49,6 +49,9 @@
     <Filter Include="CH14.파일입출력">
       <UniqueIdentifier>{bf71692f-cce7-4196-887b-fe776053b431}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CH15_변수와상수고급이론">
+      <UniqueIdentifier>{2305e13f-ebb9-49f0-941c-d41eada12c6d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EX_01.c">
@@ -575,6 +578,57 @@
     </ClCompile>
     <ClCompile Include="CH14_EX_09.c">
       <Filter>CH14.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="CH14_EX_10.c">
+      <Filter>CH14.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="CH14_EX_11.c">
+      <Filter>CH14.파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_01.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_02.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_03.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_04.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_05.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_06.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_07.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_08.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_09.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_10.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_11.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_12.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_13.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_14.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH15_EX_15.c">
+      <Filter>CH15_변수와상수고급이론</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
