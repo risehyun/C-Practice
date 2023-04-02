@@ -55,6 +55,9 @@
     <Filter Include="CH16_전처리기">
       <UniqueIdentifier>{bd7e0e2a-54da-4362-bf67-3f86d8895e35}</UniqueIdentifier>
     </Filter>
+    <Filter Include="CH17_함수에대한고급이론">
+      <UniqueIdentifier>{434ef368-6b21-48f3-ba91-3be6d7d74ade}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EX_01.c">
@@ -644,6 +647,39 @@
     </ClCompile>
     <ClCompile Include="CH16_EX_05.c">
       <Filter>CH16_전처리기</Filter>
+    </ClCompile>
+    <ClCompile Include="CH17_EX_01.c">
+      <Filter>CH17_함수에대한고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH17_EX_02.c">
+      <Filter>CH17_함수에대한고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH17_EX_03.c">
+      <Filter>CH17_함수에대한고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH17_EX_04.c">
+      <Filter>CH17_함수에대한고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH17_EX_05.c">
+      <Filter>CH17_함수에대한고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH17_EX_06.c">
+      <Filter>CH17_함수에대한고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH17_EX_07.c">
+      <Filter>CH17_함수에대한고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH17_EX_08.c">
+      <Filter>CH17_함수에대한고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH17_EX_09.c">
+      <Filter>CH17_함수에대한고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH17_EX_10.c">
+      <Filter>CH17_함수에대한고급이론</Filter>
+    </ClCompile>
+    <ClCompile Include="CH17_EX_11.c">
+      <Filter>CH17_함수에대한고급이론</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
